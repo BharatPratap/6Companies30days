@@ -1,0 +1,1 @@
+{"name":"Local: q3","url":"d:\\BP\\CP\\6days30companies\\Goldman\\q3.cpp","tests":[{"id":1641404625311,"input":"1\n7 100\n1 9 2 8 6 4 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\BP\\CP\\6days30companies\\Goldman\\q3.cpp","group":"local","local":true}
